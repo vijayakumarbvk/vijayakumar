@@ -2,3 +2,7 @@
 
 import platform
 print(platform.python_version())
+a="vijayakumar"
+print(a)
+b="honey"
+print(b)

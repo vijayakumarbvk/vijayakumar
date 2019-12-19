@@ -6,3 +6,4 @@ a="vijayakumar"
 print(a)
 b="honey"
 print(b)
+print(a+b)

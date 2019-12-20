@@ -7,3 +7,4 @@ print(a)
 b="honey"
 print(b)
 print(a+b)
+print(a*2)
